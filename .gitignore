@@ -1,0 +1,12 @@
+lib/*
+lib
+*.out
+*.s
+debug.txt
+*.cmake
+*.rst
+*.pdf
+CMakeFiles/*
+CMakeFiles
+CMakeCache.txt
+
