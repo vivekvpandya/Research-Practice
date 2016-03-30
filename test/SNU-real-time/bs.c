@@ -39,6 +39,8 @@
 /*                                                                       */
 /*                                                                       */
 /*************************************************************************/
+
+
 int binary_search(int x);
 
 
@@ -67,10 +69,9 @@ struct DATA data[15] = { {1, 100},
 	     {17, 133},
 	     {18, 10} };
 
-int main(void)
+void main(void)
 {
 	binary_search(8);
-	return 0;
 }
 
 int binary_search(int x)

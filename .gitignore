@@ -9,4 +9,7 @@ debug.txt
 CMakeFiles/*
 CMakeFiles
 CMakeCache.txt
-
+test/SNU-real-time/*.bc
+test/SNU-real-time/*.o
+2147483672
+infe
